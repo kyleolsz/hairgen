@@ -1,4 +1,4 @@
-# Intuitive, Interactive Beard and Hair Synthesis With Generative Models
+# Intuitive, Interactive Beard and Hair Synthesis With Generative Models (CVPR 2020 Oral)
 
 <p align="center">
    <b><a href="http://kyleolszewski.com">Kyle Olszewski</a>, <a href="http://www.duygu-ceylan.com">Duygu Ceylan</a>, <a href="https://junxnui.github.io/">Jun Xing</a>, <a href="http://www.jiechevarria.com/">Jose Echevarria</a>, <a href="http://www.zhilichen.com/">Zhili Chen</a>, <a href="http://chenweikai.github.io/">Weikai Chen</a>, and <a href="http://hao-li.com">Hao Li</a></b>
