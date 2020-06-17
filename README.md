@@ -14,6 +14,8 @@ We present an interactive approach to synthesizing realistic variations in facia
 
 # Links
 
+[Project Page](https://kyleolsz.github.io/HairGen/)
+
 [Official CVPR Page](http://openaccess.thecvf.com/content_CVPR_2020/html/Olszewski_Intuitive_Interactive_Beard_and_Hair_Synthesis_With_Generative_Models_CVPR_2020_paper.html)
 
 [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Olszewski_Intuitive_Interactive_Beard_and_Hair_Synthesis_With_Generative_Models_CVPR_2020_paper.pdf)
