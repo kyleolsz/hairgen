@@ -1,5 +1,9 @@
 # Intuitive, Interactive Beard and Hair Synthesis With Generative Models
 
+<p align="center">
+   <b><a href="http://kyleolszewski.com">Kyle Olszewski</a>, Duygu Ceylan, Jun Xing, Jose Echevarria, Zhili Chen, Weikai Chen, and <a href="http://hao-li.com">Hao Li</a></b>
+</p>
+
 ![Screenshot](figures/teaser.png)
 
 ## Abstract
