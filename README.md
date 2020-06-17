@@ -1,7 +1,9 @@
 # Intuitive, Interactive Beard and Hair Synthesis With Generative Models
 
 [Official CVPR Page](http://openaccess.thecvf.com/content_CVPR_2020/html/Olszewski_Intuitive_Interactive_Beard_and_Hair_Synthesis_With_Generative_Models_CVPR_2020_paper.html)
+
 [arxiv](https://arxiv.org/abs/2004.06848)
+
 [youtube](https://www.youtube.com/watch?v=v4qOtBATrvM}
 
 ## Citation
